@@ -1,6 +1,8 @@
 # Roku IPTV application for XtreamCodes, Xtream-UI, XUI.ONE
 This is an Roku client side application built to work with the XtreamCodes, Xtream-UI, XUI.ONE streaming engine API.
 
+This application is made only for IPTV service owners.
+
 Please contact us on xoceunder@gmail.com
 Telegram: https://t.me/xoceunder
 
